@@ -18,7 +18,7 @@
 #endif  // USE_OPENCV
 
 
-char* CLASSES5[21] = { "__background__",
+char const* CLASSES5[21] = { "__background__",
 "aeroplane", "bicycle", "bird", "boat",
 "bottle", "bus", "car", "cat", "chair",
 "cow", "diningtable", "dog", "horse",
